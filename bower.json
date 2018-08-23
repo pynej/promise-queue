@@ -1,4 +1,5 @@
 {
+  "name": "promise-queue",
   "author": "Mikhail Davydov <i@azproduction.ru>",
   "description": "Promise-based queue",
   "main": "lib/index.js",
