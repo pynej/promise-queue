@@ -1,0 +1,23 @@
+{
+  "author": "Mikhail Davydov <i@azproduction.ru>",
+  "description": "Promise-based queue",
+  "main": "index.js",
+  "authors": [
+    "Mikhail Davydov <i@azproduction.ru>"
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "Promise",
+    "queue",
+    "pool",
+    "Async"
+  ],
+  "homepage": "https://github.com/promise-queue/promise-queue/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
